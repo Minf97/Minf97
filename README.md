@@ -16,12 +16,13 @@
 #### Technologies
 <img src="https://img.shields.io/badge/Html5-%23e34f26.svg?logo=html5&logoColor=white&style=flat-square" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat-square" alt="CSS3" />  <img src="https://img.shields.io/badge/Tailwindcss-%2338b2ac.svg?logo=tailwind-css&logoColor=white&style=flat-square" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/ant%20design-%230170fe.svg?logo=Ant-design&logoColor=white&style=flat-square" alt="Ant Design" /> <img src="https://img.shields.io/badge/Electron-%231572b6.svg?logo=Electron&logoColor=white&style=flat-square" alt="Electron">
 
-<img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=Vue.js&logoColor=%234fc08d&style=flat-square" alt="Vue.js" />
-<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361dafb&style=flat-square" alt="React" /> 
+<img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=Vue.js&logoColor=%234fc08d&style=flat-square" alt="Vue.js" /><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361dafb&style=flat-square" alt="React" /> 
 
-<img src="https://img.shields.io/badge/Babel-%23323330.svg?logo=babel&logoColor=%23f9dc3e&style=flat-square" alt="Babel" /> 
-<img src="https://img.shields.io/badge/Webpack-%231e72b3.svg?logo=Webpack&logoColor=white&style=flat-square" alt="Webpack" /> 
-<img src="https://img.shields.io/badge/Vite-%23000000.svg?logo=vite&logoColor=blue&style=flat-square" alt="Vite" >
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/Babel-%23323330.svg?logo=babel&logoColor=%23f9dc3e&style=flat-square" alt="Babel" /> 
+  <img src="https://img.shields.io/badge/Webpack-%231e72b3.svg?logo=Webpack&logoColor=white&style=flat-square" alt="Webpack" /> 
+  <img src="https://img.shields.io/badge/Vite-%23000000.svg?logo=vite&logoColor=blue&style=flat-square" alt="Vite" >
+</div>
 
 <img src="https://img.shields.io/badge/Mongodb-%234ea94b.svg?logo=Mongodb&logoColor=white&style=flat-square" alt="MongoDB" />
 <img src="https://img.shields.io/badge/Mysql-%234479a1.svg?logo=MySQL&logoColor=white&style=flat-square" alt="MySQL" /> 
