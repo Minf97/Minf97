@@ -23,6 +23,8 @@
 
  <img alt="Static Badge" src="https://img.shields.io/badge/nestjs%20-%20nestjs?logo=nestjs&logoColor=%23E0234E&color=%23000000" alt="nest"> <img src="https://img.shields.io/badge/Mongodb-%234ea94b.svg?logo=Mongodb&logoColor=white&style=flat-square" alt="MongoDB" /> <img src="https://img.shields.io/badge/Mysql-%234479a1.svg?logo=MySQL&logoColor=white&style=flat-square" alt="MySQL" /> <img src="https://img.shields.io/badge/Redis-%23a51f17.svg?logo=redis&logoColor=white&style=flat-square" alt="Redis" />
 
+<img alt="Static Badge" src="https://img.shields.io/badge/vscode%20_debugger-debugger?logo=visualstudiocode&color=%23000"> 
+
 
 #### Tools
 <img src="https://img.shields.io/badge/Visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square" alt="Visual Studio Code" />  <img src="https://img.shields.io/badge/Docker-%23000000.svg?logo=Docker&logoColor=blue&style=flat-square" alt="docker" />  <img src="https://img.shields.io/badge/Github-%23000000.svg?logo=github&logoColor=white&style=flat-square" alt="github" /> 
